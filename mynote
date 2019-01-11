@@ -1,0 +1,4 @@
+https://github.com/ayufan-rock64/linux-u-boot.git
+
+make CROSS_COMPILE=aarch64-linux-gnu- rock64-rk3328_defconfig
+make ARCH=arm CROSS_COMPILE=aarch64-linux-gnu-
